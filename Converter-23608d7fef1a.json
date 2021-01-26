@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "converter-298004",
+  "private_key_id": "23608d7fef1af73913e61c504bc872626b01c271",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDoYv3fMVVtBcde\nZ+X5/3acNV4ck8gfc8Z+TF3oenBR9tKcc8jKsSBqC9NfcaO6hATnJcqzL2zuoWuB\nN+KA8phph4NpNyr0mZTWVOzhHtl3b3KR8W4hvJTOvH0hC+IWbMQDZQoHGeHtMTL7\nKxe+8+3a/y7ylQcya/RkLctnrDe3kPK/kbZIlLs6FeDawsmdsaEUqxUMqg/gVUab\nDVroXZZZvLy2hA6ymHgUmPXgYQQNpzIioOqVxzBhaJNui6/i+3uyjFgOeiI5RcPg\nr5hdC6oiOAGQznAIUtMNr/PLZwtw1GNJR46w1fzR8dDXHFqBs4WpSqTTYOIrpyaj\nSMu7luC5AgMBAAECggEAArei8lODBTWrwXiDjEB8JD13g+wHy15biX8zxekl8RTA\nHQuO4y0zt38QkgLOgFAqN9hi82TFkvtuOgzrkshuFyXPgpEePnf2m+moT3BAk2Xz\n4q2pClnzKiuyvDUwXUTDp1Usyy0hTYMQGTcayE/VOIStXtwhQRSuvzvN2hYocfaz\n5YrClNQDMKOyOUUXe5TU5SyPGKvMoIE93lxSH4956gP5RPnEFIW8RdSwNAfehCyL\nnf0b4HSGck7pBVIhtpwpZtY9KOLuU9MMjvQDZL6UftXtxsq8m1X4UOtZb/jHxT7q\n+ezhDhCQ5+do0332zP++USfRaWV/eblmcUBS1PWAEQKBgQD8MsXCsjmPFfB5y7yY\nGCkzYcWvY42sV5PBNfrjtRaoj0/GfwwfVyOGTZijZHBQqMKyqz3dxtbCtxu0EQDH\nOO6+EFghH4tAmL9bXijCab/nPMaSm3pwqBq7Cd73+yzjPFivYSkZF8CGgpmXZXyq\nfgwufXPhNYLSXZ3EHlCcO+kx9QKBgQDr48Q6GY3U9Ph2Nsh5rRHKOybIPgY9y5yJ\n3tQrTCGUGU0FCyNmTApWQEcFE5QYYGr4cJMWh8MHf8F11k82XQkP7HwmTMXxhVct\nmn/Q6Lnrn7S1bTHm2qA2rIQkdhHu9gHPBI/vNsZM10/2jcE34IHSBu+hBpG3bYkN\nAW2/DKbFNQKBgH4juuwdjlJ1y7hvYZ3E/952OZT2uyaHCxzpLdp0eafHPkRuyRZn\n1BnZd83Jb6+4KOGKasAhMstjIFUY6AW9ARRJQnsWtuSRQaymVMagc95pdHxhjYUJ\nX41La50moRXq2gSmGRM24RGmAsJJfWgc8WTTVIFA7XTgZAdyjikGgiV9AoGBAIpG\nlNN+AU8xXqhlSrVQx5nlfMFq4lu9DIEhNvw+f3yCLEzlj5W6w2B2A2utY2W6t1n1\nG7PcV24A7NX3j62Nce98r/X/kRUYFddstrougjXmA5dKcDMkO0BxdnCtKawLV1oU\nEY+nayzGFmCwDfCEUXVdjYC2ChsdQXZ3PO7+KpB1AoGBANZbxZGQH9ovDNmiXgIv\nAIYyHIFacjW3YVRwgOeBQkLSM2GqeeZRV2O3+Fgt6FhF10xoT6xqCveoqVcxIYSN\nTC1FRow9IewvQPHsD5aT0i94T0V1mRIfkn7/EqayRXVS48Nm7z+7xj/3Q1AOoGms\nfFjlK3+lpnGeJ/SKpqR8Gf0U\n-----END PRIVATE KEY-----\n",
+  "client_email": "airtable-service@converter-298004.iam.gserviceaccount.com",
+  "client_id": "115567929193896348645",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/airtable-service%40converter-298004.iam.gserviceaccount.com"
+}

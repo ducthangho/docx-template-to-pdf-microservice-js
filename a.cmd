@@ -1,0 +1,1 @@
+gcloud builds submit --tag gcr.io/converter-298004/docx-converter --timeout 10000
