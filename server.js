@@ -9,7 +9,7 @@ const app = express();
 const promiseRetry = require("promise-retry");
 const mobx = require("mobx");
 const mobx_utils = require("mobx-utils");
-const VietnameseTextNormalizer = require("VietnameseTextNormalizer/lib/binding.js");
+const VietnameseTextNormalizer = require("VietnameseTextNormalizer");
 const {default:JsExcelTemplate} = require("js-excel-template/nodejs/nodejs");
 const {
     default: PQueue
@@ -577,9 +577,12 @@ app.post("/vnaddress", (req, res) => {
         Location.init();
     let content = req.body;    
     // let str = vn_normalizer.Normalize(content.text);
-    let str = vn_normalizer.Normalize(content.address);
+    let str = vn_normalizer.Normalize(content.address.trim());
     console.log(str);
-    let location = strToLocation(str);
+    let location;
+    if (str.match(/^\d+$/i)){//Number digit only
+      location = Location.fromCode(str,null,null);
+    } else location = strToLocation(str);
     if (!location){
       res.json({
         status: "error",
